@@ -20,7 +20,7 @@ Promptly/
 │   │   ├── coordinator.py       # Central coordinator logic  
 │   │   └── state.py             # AgentState definition  
 │   ├── agents/                  # All specialized agents  
-│   │   ├── base.py              # BaseAgent interface (optional)  
+│   │   ├── base.py              # BaseAgent interface  
 │   │   ├── search_agent.py  
 │   │   ├── codegen_agent.py  
 │   │   └── critic_agent.py  
