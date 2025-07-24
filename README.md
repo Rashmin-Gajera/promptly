@@ -10,8 +10,8 @@ A modular, large-scale agentic AI platform using FastAPI, LangChain, and LangGra
 
 ## Folder Structure
 
-Promptly/  
-├── app/
+Promptly/    
+├── app/  
 │   ├── main.py                  # FastAPI entrypoint  
 │   ├── api/                     # API route handlers  
 │   │   └── routes.py  
