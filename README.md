@@ -1,4 +1,4 @@
-# Agentic AI System
+# Yukti - Smart Health Assistant
 
 A modular, large-scale agentic AI platform using FastAPI, LangChain, and LangGraph.
 
